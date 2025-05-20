@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2556664705ffb084c895aac3f1c4882a, type: 3}
+  m_Name: FiguresConfig
+  m_EditorClassIdentifier: 
+  _count: 63
+  _figureUIPrefab: {fileID: 1619350485303976900, guid: d596154e4afb962428bf78926a5ec3d8, type: 3}
+  _shapeDatas:
+  - _type: 0
+    _sprite: {fileID: 21300000, guid: 3bb89d8d3e7897443af510587108174b, type: 3}
+    _figurePrefab: {fileID: 9211910375486412087, guid: 6b21a2ddb5400684fb359baeeee7c34d, type: 3}
+  - _type: 1
+    _sprite: {fileID: 21300000, guid: a2209eeefdf9ab54598d8cf3b520a95a, type: 3}
+    _figurePrefab: {fileID: 6333351637056092461, guid: c7e5ec14bb41f4743b2403f622f36071, type: 3}
+  - _type: 2
+    _sprite: {fileID: 21300000, guid: fd55085a71e07924183ed4b14482719b, type: 3}
+    _figurePrefab: {fileID: 1934772152919146711, guid: 5e486dbec3a802943ac3414ec6234853, type: 3}
+  - _type: 3
+    _sprite: {fileID: 21300000, guid: 9dc4e34176dec8d408154952248eae37, type: 3}
+    _figurePrefab: {fileID: 4545643075100447191, guid: 3c158f330cf6b6f4f8915585d1adb53e, type: 3}
+  - _type: 4
+    _sprite: {fileID: 21300000, guid: 9d7480c60d2ecfc468e0ce85d36411c5, type: 3}
+    _figurePrefab: {fileID: 4266944577045353481, guid: e3ec7932295e79d4fa3f9f9e4b665526, type: 3}
+  _foodDatas:
+  - _type: 1
+    _sprite: {fileID: 21300000, guid: f8723b6332195fb4f822998c5d2b76bf, type: 3}
+  - _type: 2
+    _sprite: {fileID: 21300000, guid: e1439983d0c9ae0469733180b50dc6c1, type: 3}
+  - _type: 3
+    _sprite: {fileID: 21300000, guid: e0202aff5f8f47549ab552cee4fa0a3b, type: 3}
+  - _type: 4
+    _sprite: {fileID: 21300000, guid: 5d2ad7f8781bed8449ed39c616f2ab8e, type: 3}
+  - _type: 5
+    _sprite: {fileID: 21300000, guid: 63b883a5f53db394d8a0235a20988a65, type: 3}
+  - _type: 6
+    _sprite: {fileID: 21300000, guid: b7da14248f6c1fa4ab710d61defc4781, type: 3}
+  - _type: 7
+    _sprite: {fileID: 21300000, guid: 7da1df52b06191443be2593576edb208, type: 3}
+  - _type: 8
+    _sprite: {fileID: 21300000, guid: a4ffe5ea752606f46ae5e40fe99bc2d9, type: 3}
+  - _type: 9
+    _sprite: {fileID: 21300000, guid: 4aaa4d9946df7984980e14290df34b2f, type: 3}
+  - _type: 10
+    _sprite: {fileID: 21300000, guid: 0436c7762fb9a2d4ba290b05ed1014ca, type: 3}
+  - _type: 11
+    _sprite: {fileID: 21300000, guid: c419c2c778c22654d95f71e1b299ae27, type: 3}
+  - _type: 12
+    _sprite: {fileID: 21300000, guid: ff6881fd42d379847b99843592324483, type: 3}
+  _colorDatas:
+  - _type: 0
+    _color: {r: 1, g: 1, b: 1, a: 1}
+  - _type: 1
+    _color: {r: 0.6245283, g: 1, b: 0.6245283, a: 1}
+  - _type: 2
+    _color: {r: 1, g: 1, b: 0.5264151, a: 1}
+  - _type: 3
+    _color: {r: 0.5264151, g: 0.5264151, b: 1, a: 1}
+  - _type: 4
+    _color: {r: 1, g: 0.4433962, b: 0.4433962, a: 1}
+  - _type: 5
+    _color: {r: 1, g: 0.6839622, b: 0.3679244, a: 1}
+  - _type: 6
+    _color: {r: 0.84249127, g: 0.42830187, b: 1, a: 1}
